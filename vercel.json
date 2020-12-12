@@ -1,5 +1,6 @@
 {
   "redirects": [
-    { "source": "/about", "destination": "/about/2" }
+    { "source": "/about", "destination": "/about/2" },
+    { "source": "/category/:match*/1", "destination": "/category/:match*" }
   ]
 }
