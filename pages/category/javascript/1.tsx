@@ -5,7 +5,7 @@ const Category = () => (
   <Layout title="カテゴリーのリダイレクトテスト">
     <h1>JavaScript</h1>
     <p>
-      <Link href="/javascript/1">
+      <Link href="/category/javascript/1">
         <a>JavaScript</a>
       </Link>
     </p>
